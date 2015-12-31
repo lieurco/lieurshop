@@ -13,6 +13,7 @@ This source file based on Yeoman generator-gulp-webapp (https://github.com/yeoma
 Setting your local environment 
 * Install the Jade gulp plugin `npm install —save-dev gulp-jade`
 * Run `bower install` to install front-end dependency from `bower.json`
+* If you start with fresh install from `gulp-webapp` you need to replace all in `/app` folder, `gulp.babel.js`, `package.json` and `bower.json`
 
 How to start?
 * Run `gulp serve` to preview and watch for changes
